@@ -37,7 +37,7 @@
  */
 
 #ifdef DEBUG
-  #include <cpp-dump.hpp>
+  #include "cpp-dump.hpp"
   
   namespace cp = cpp_dump;
   
